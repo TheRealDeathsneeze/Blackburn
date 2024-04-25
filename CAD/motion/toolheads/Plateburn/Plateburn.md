@@ -1,0 +1,1 @@
+Plateburn is a laser cut plate based compact toolhead designed around the Sherpa Mini extruder and pumped air based air knife part cooling. Focus is on keeping things small and light while maximizing rigidity with a great center of mass. 
